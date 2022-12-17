@@ -11,11 +11,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<a href="https://movie-recommender-sarang.herokuapp.com/"><img src="https://github.com/Git-Sarang/movie-recommender/blob/main/static/movie-rec-1.png" alt="Website-Link" /></a>
+<a href="https://movie-recommender-sarang.herokuapp.com/"><img src="https://github.com/rachit1711/movie-recommeder/blob/main/movie-rec-1.png" alt="Website-Link" /></a>
 
 <div id="tags" align="center">
-<a href="https://www.linkedin.com/in/sarang-rawat-a4aa30231"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:sarangrawat05@gmail.com?subject=Hi%20Sarang"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/rachit-narang-49a4ba193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:rachitnarang1711@gmail.com?subject=Hi%20Sarang"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
 
@@ -110,10 +110,10 @@ _The model is deployed in a minimalist website design. It is hosted on Heroku._
 
 ### Connect With Me
 <div id="tags" align="center">
-<a href="https://www.linkedin.com/in/sarang-rawat-a4aa30231"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:sarangrawat05@gmail.com?subject=Hi%20Sarang"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/rachit-narang-49a4ba193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:rachitnarang1711@gmail.com?subject=Hi%20Sarang"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
 
 <p align="center">
-Made with 💖 by Sarang</p>
+Made with 💖 by Rachit Narang</p>
