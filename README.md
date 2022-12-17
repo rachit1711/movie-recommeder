@@ -1,119 +1,21 @@
-# Movie Recommender
-
-<div id="top"></div>
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<a href="https://movie-recommender-sarang.herokuapp.com/"><img src="https://github.com/rachit1711/movie-recommeder/blob/main/movie-rec-1.png" alt="Website-Link" /></a>
-
-<div id="tags" align="center">
-<a href="https://www.linkedin.com/in/rachit-narang-49a4ba193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:rachitnarang1711@gmail.com?subject=Hi%20Rachit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</div>
+# **Title: Movie Recommendation System**
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#deployment">Deployment</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
+## **1. Methodology**
+<img src="https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png" width="80%" height="80%">
 
 
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-To open the website click on the project image provided above. Once the webpage loads, type in the Movie of your choiceand click the 'Recommend' button to get top 5 similar recommendations.
-This is Data Science & Machine Learning project. This project is natively written in python. 
-Data sources:
-* Kaggle
-* MovieDB
-* DatasetSearch
-
-The main data collected had to be cleaned and organised on the basis of movie_ID. Duplicates had to be deleted.
-
-<a href="https://www.kaggle.com/tmdb/tmdb-movie-metadata">TMDB Movies Dataset</a>
-_(not included in the repository as it was over 100mbs)_
+## **2. Description**
+<img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Python](https://www.python.org/)
-* [Jupyter Notebook](https://jupyter.org/)
-* [Tensorflow](https://www.tensorflow.org/)
+## **3. Input / Output**
+<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
 
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-Prior Knowledge of python and command line is required.
-
-### Prerequisites
-Dependencies that need to be installed
-* Pandas
-  ```sh
-  pip install pandas
-  ```
-* Tensorflow
-  ```sh
-  pip install tensorflow
-  ```
-* Streamlit
-  ```sh
-  pip install streamlit
-  ```
-* Requests
-  ```sh
-  pip install requests
-  ```
-
-### Deployment
-
-_The model is deployed in a minimalist website design. It is hosted on Heroku._
-
-1. The frontend is made by the _streamlit_ library in python.
-2. It can be locally run using the command
-   ```sh
-   streamlit run app.py
-   ```
-3. Command file is made by the name 'Procfile'. This contains the bash commands for the Heroko server.
-  
-4. Finally all files are pushed to the Heroku server.
-
-<a href="https://movie-recommender-sarang.herokuapp.com/">Movie Recommender</a>
+## **4. Live link**
+Link: www.FacialExpressionRecognition.com
 
 
-### Connect With Me
-<div id="tags" align="center">
-<a href="https://www.linkedin.com/in/rachit-narang-49a4ba193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:rachitnarang1711@gmail.com?subject=Hi%20Rachit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</div>
-
-
-<p align="center">
-Made with 💖 by Rachit Narang</p>
+## **5. Screenshot of the Interface**
+<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
