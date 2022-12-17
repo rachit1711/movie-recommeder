@@ -6,16 +6,15 @@
 
 
 ## **2. Description**
-<img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
+<img src="https://user-images.githubusercontent.com/73173607/208235953-3ce6d662-39eb-40f4-bd12-91a7e65f7398.png" width="80%" height="80%">
 
 
-## **3. Input / Output**
-<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
 
 
-## **4. Live link**
-Link: www.FacialExpressionRecognition.com
+## **3. Live link**
+Link: https://movie-recommender-sarang.herokuapp.com
+
+## **4. Screenshot of the Interface**
+<img src="https://user-images.githubusercontent.com/73173607/208236061-1aaefbc6-e2e5-4f06-828d-468ff7368afa.png" width="50%" height="50%">
 
 
-## **5. Screenshot of the Interface**
-<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
